@@ -72,3 +72,9 @@ The Geospatial Data Abstraction Library (GDAL) is an open-source library for rea
 - **Computer Vision:** When combined with geospatial data, computer vision techniques can be applied to tasks such as object detection (e.g., detecting buildings, roads, or vehicles in satellite images) and change detection over time.
 - **Environmental Studies:** Monitoring land use, deforestation, water bodies, and other environmental parameters.
 - **Navigation and Surveying:** Integrating high-resolution images with other spatial data for precise navigation and mapping.
+
+---
+
+## Demo
+
+![Image](https://github.com/user-attachments/assets/8245bec1-6c16-41c7-af1c-6bc28985deb9)
